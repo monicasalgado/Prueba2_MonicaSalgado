@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+header{
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 999999;
+}
+#sec-home{
+	background-image: url("../img/home-header-bg.jpg");
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 150vh;
+	padding-top: 15%;
+	text-align: left;
+	color: #fff;
+	
+}
+
+
+#sec-home h1{
+	font-size: 30px;
+	font-weight: 600;
+	width: 70%;
+	color: #fff;
+	text-align: left;
+}
+
+#sec-home h2{
+	text-align: left;
+	font-size: 15px;
+	font-weight: 200;
+	color:#fff;
+}
+
+
+h1{
+	color: #272525;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	margin: 20px;
+	text-align: center;
+	padding: 20px;
+}
+#sec-coaches{
+	margin: 70px;
+}
+
+h2{
+	color: #272525;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700;
+	font-size: 25px;
+	margin: 20px;
+}
+
+#sec-coaches article{
+	align-content: center;
+	text-align: center;
+}
+
+#sec-coaches p{
+	color: #7e7979;
+}
+
+#sec-about{
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+
+#sec-about p{
+	color: #7e7979;
+	font-size: 14px;
+}
+
+#sec-about img{
+	}
+
+
+footer{
+	background-color: #272525;
+	color: #fff;
+	
+}
+
+footer h1{
+	color: #fff;
+}
+
+footer ul{
+		text-align: center;
+
+}
+
+footer ul li{
+	padding-right: 15px;
+}
+
+footer ul li a{
+	color: #fba755;
+	font-size: 16px;
+}
